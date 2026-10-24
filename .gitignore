@@ -22,3 +22,6 @@ dist/
 
 # IDE
 .vscode/
+
+# Local assistant instructions
+/AGENTS.md
